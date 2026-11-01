@@ -1,0 +1,17 @@
+{
+  "tracking_uri": "sqlite:////home/s2025ae05085/Desktop/assignment_2/LLMOps/mlflow_tracking/mlflow.db",
+  "experiment_name": "eduassist_llmops_assignment",
+  "experiment_id": "1",
+  "prompt_name": "eduassist_qa_prompt",
+  "prompt_versions": {
+    "v1": 1,
+    "v2": 2,
+    "v3": 3
+  },
+  "production_version": 3,
+  "run_ids": {
+    "v1": "4ba2c557e50240a282255b774a5e717f",
+    "v2": "e3983ea07f104be697f77c33fa3eb837",
+    "v3": "af6fc34aa81040efbfa2d20f0eb8b7bf"
+  }
+}
