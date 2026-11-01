@@ -1,4 +1,0 @@
-prompt_version,avg_latency_seconds,avg_input_tokens,avg_output_tokens,avg_cost_per_request,valid_json,keyword_quality_rate,recommended
-v1,7.8802234383299945,23.0,140.0,6.566852865274996e-05,0.0,1.0,False
-v2,7.269324665050954,45.0,140.0,6.057770554209128e-05,0.0,1.0,False
-v3,3.3825468410737813,79.0,62.0,2.8187890342281512e-05,1.0,0.8,True
